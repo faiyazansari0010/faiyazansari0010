@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Faiyaz Ansari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiyazansari0010&label=Profile%20views&color=0e75b6&style=flat" alt="faiyazansari0010" /> </p>
 
 - 🌱 I’m currently learning **React**
