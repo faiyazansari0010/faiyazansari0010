@@ -1,4 +1,3 @@
-### Hi there, I am Faiyaz Ansari 👋
 
 <!--
 **faiyazansari0010/faiyazansari0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
