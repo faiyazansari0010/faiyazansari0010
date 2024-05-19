@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **faiyazansari0010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zD6CZJNp4vTTnqfaUDb6iobYAuvOgWFH/view?usp=sharing](https://drive.google.com/file/d/1zD6CZJNp4vTTnqfaUDb6iobYAuvOgWFH/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1zD6CZJNp4vTTnqfaUDb6iobYAuvOgWFH/view?usp=sharing](https://drive.google.com/file/d/1zD6CZJNp4vTTnqfaUDb6iobYAuvOgWFH/view?usp=sharing)
 
 - ⚡ Fun fact **I love exploring places and adventures!**
 
