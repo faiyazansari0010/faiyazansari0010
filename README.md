@@ -4,11 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiyazansari0010&label=Profile%20views&color=0e75b6&style=flat" alt="faiyazansari0010" /> </p>
 
-- 🌱 Ask me about: **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS**, **C++**, **JavaScript**, **Tailwind**, **RESTful APIs**, **HTML**, **CSS**, **Bootstrap**, **Postman**
+- 💬 Ask me about: **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS**, **C++**, **JavaScript**, **Tailwind**, **RESTful APIs**, **HTML**, **CSS**, **Bootstrap**, **Postman**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 💬 Ask me about **C++, Data Structures and Algorithms, HTML, CSS, JavaScript, Bootstrap, SQL and Github ofcourse!**
 
 - 📫 How to reach me: **faiyazansari0010@gmail.com**
 
