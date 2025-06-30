@@ -80,6 +80,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiyazansari0010&show_icons=true&locale=en&layout=compact" alt="faiyazansari0010" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=faiyazansari0010&show_icons=true&locale=en" alt="faiyazansari0010" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=faiyazansari0010&show_icons=true&locale=en" alt="faiyazansari0010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiyazansari0010&" alt="faiyazansari0010" /></p>
