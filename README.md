@@ -19,7 +19,10 @@
 <a href="https://linkedin.com/in/hfaiyaz-ansari-580b451a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hfaiyaz-ansari-580b451a4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/faiyazansari0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faiyazansari0010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/faiyazansari0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faiyazansari0010" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/faiyazansari0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="faiyazansari0010" height="30" width="40" /></a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/swagger.svg" alt="restful api" width="40" height="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
